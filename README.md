@@ -13,6 +13,11 @@ The code is built with the following libraries:
 * Pillow
 * Python 3.x
 ---
+## Access to the Optical Flow Magnitude Dataset
+
+* Subject to compliance with applicable research ethics regulations and data governance requirements, we make the optical flow magnitude data derived from our tremor videos available to the research community to facilitate related research, promote reproducibility, and support further methodological development in video-based tremor assessment. 
+
+* The shared data are computed from the original RGB tremor videos and do **not** include any personally identifiable or biometric information of the participants. Applicants are only required to register their institutional affiliation and contact details in order to obtain access to the optical flow magnitude dataset. Despite the open availability of these processed data, all applicants are expected to follow relevant research policies and regulations. The dataset is provided **solely for non-commercial research purposes** and must **not** be used for commercial or profit-driven activities.
 
 ## Training
 
